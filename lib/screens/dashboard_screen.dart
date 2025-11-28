@@ -9,6 +9,7 @@ import '../widgets/custom_bottom_nav.dart';
 import '../widgets/filter_modal.dart';
 import '../controllers/cart_controller.dart';
 import '../controllers/wishlist_controller.dart';
+import 'product_details_screen.dart';
 
 class DashboardScreen extends StatefulWidget {
   @override
